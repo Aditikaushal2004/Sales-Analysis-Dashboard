@@ -1,21 +1,88 @@
 _id,order_id,customer_name,product_name,category,price,quantity,city,order_date
-69e9b4f33cb88c30cd491d13,1,Aditi,Laptop,Electronics,50000,1,Ludhiana,2026-04-20
-69e9b5403cb88c30cd491d15,2,Rahul,Phone,Electronics,20000,2,Delhi,2026-04-21
-69e9b54d3cb88c30cd491d17,3,Simran,Shoes,Fashion,3000,1,Chandigarh,2026-04-21
-69e9b55b3cb88c30cd491d19,4,Karan,Headphones,Electronics,2500,3,Amritsar,2026-04-22
-69e9b83a3cb88c30cd491d1d,5,Aman,Laptop,Electronics,55000,1,Delhi,2026-04-22
-69e9b83a3cb88c30cd491d1e,6,Riya,Phone,Electronics,18000,2,Mumbai,2026-04-23
-69e9b83a3cb88c30cd491d1f,7,Neha,Shoes,Fashion,3500,1,Ludhiana,2026-04-23
-69e9b83a3cb88c30cd491d20,8,Arjun,Watch,Accessories,4000,1,Chandigarh,2026-04-24
-69e9b83a3cb88c30cd491d21,9,Kiran,Headphones,Electronics,3000,2,Amritsar,2026-04-24
-69e9b83a3cb88c30cd491d22,10,Rahul,Tablet,Electronics,25000,1,Delhi,2026-04-25
-69e9b83a3cb88c30cd491d23,11,Simran,Bag,Fashion,2000,2,Patiala,2026-04-25
-69e9b83a3cb88c30cd491d24,12,Karan,Camera,Electronics,45000,1,Mumbai,2026-04-26
-69e9b83a3cb88c30cd491d25,13,Aditi,Dress,Fashion,5000,1,Chandigarh,2026-04-26
-69e9b83a3cb88c30cd491d26,14,Vikas,Shoes,Fashion,3200,2,Delhi,2026-04-27
-69e9b83a3cb88c30cd491d27,15,Pooja,Phone,Electronics,22000,1,Ludhiana,2026-04-27
-69e9b83a3cb88c30cd491d28,16,Rohit,Laptop,Electronics,60000,1,Amritsar,2026-04-28
-69e9b83a3cb88c30cd491d29,17,Meena,Watch,Accessories,3500,1,Patiala,2026-04-28
-69e9b83a3cb88c30cd491d2a,18,Suresh,Bag,Fashion,1800,3,Delhi,2026-04-29
-69e9b83a3cb88c30cd491d2b,19,Anita,Camera,Electronics,47000,1,Mumbai,2026-04-29
-69e9b83a3cb88c30cd491d2c,20,Deepak,Tablet,Electronics,23000,2,Chandigarh,2026-04-30
+69e9b4f33cb88c30cd491d13,1,Aditi,Laptop,Electronics,50000,1,Ludhiana,4/20/2026
+69e9b5403cb88c30cd491d15,2,Rahul,Phone,Electronics,20000,2,Delhi,4/21/2026
+69e9b54d3cb88c30cd491d17,3,Simran,Shoes,Fashion,3000,1,Chandigarh,4/21/2026
+69e9b55b3cb88c30cd491d19,4,Karan,Headphones,Electronics,2500,3,Amritsar,4/22/2026
+69e9b83a3cb88c30cd491d1d,5,Aman,Laptop,Electronics,55000,1,Delhi,4/22/2026
+69e9b83a3cb88c30cd491d1e,6,Riya,Phone,Electronics,18000,2,Mumbai,4/23/2026
+69e9b83a3cb88c30cd491d1f,7,Neha,Shoes,Fashion,3500,1,Ludhiana,4/23/2026
+69e9b83a3cb88c30cd491d20,8,Arjun,Watch,Accessories,4000,1,Chandigarh,4/24/2026
+69e9b83a3cb88c30cd491d21,9,Kiran,Headphones,Electronics,3000,2,Amritsar,4/24/2026
+69e9b83a3cb88c30cd491d22,10,Rahul,Tablet,Electronics,25000,1,Delhi,4/25/2026
+69e9b83a3cb88c30cd491d23,11,Simran,Bag,Fashion,2000,2,Patiala,4/25/2026
+69e9b83a3cb88c30cd491d24,12,Karan,Camera,Electronics,45000,1,Mumbai,4/26/2026
+69e9b83a3cb88c30cd491d25,13,Aditi,Dress,Fashion,5000,1,Chandigarh,4/26/2026
+69e9b83a3cb88c30cd491d26,14,Vikas,Shoes,Fashion,3200,2,Delhi,4/27/2026
+69e9b83a3cb88c30cd491d27,15,Pooja,Phone,Electronics,22000,1,Ludhiana,4/27/2026
+69e9b83a3cb88c30cd491d28,16,Rohit,Laptop,Electronics,60000,1,Amritsar,4/28/2026
+69e9b83a3cb88c30cd491d29,17,Meena,Watch,Accessories,3500,1,Patiala,4/28/2026
+69e9b83a3cb88c30cd491d2a,18,Suresh,Bag,Fashion,1800,3,Delhi,4/29/2026
+69e9b83a3cb88c30cd491d2b,19,Anita,Camera,Electronics,47000,1,Mumbai,4/29/2026
+69e9b83a3cb88c30cd491d2c,20,Deepak,Tablet,Electronics,23000,2,Chandigarh,4/30/2026
+69fc28c8a42208ab8c6996f2,21,Aman Singh,Wireless Mouse,Electronics,1200,2,Chandigarh,4/22/2026
+69fc28c8a42208ab8c6996f3,22,Priya Sharma,Cotton Kurti,Fashion,1500,3,Ludhiana,4/23/2026
+69fc28c8a42208ab8c6996f4,23,Vikram Jaitly,Smart Watch,Electronics,4500,1,Amritsar,4/24/2026
+69fc28c8a42208ab8c6996f5,24,Sonia Malhotra,Leather Handbag,Fashion,2800,1,Delhi,4/25/2026
+69fc28c8a42208ab8c6996f6,25,Rohan Verma,Bluetooth Speaker,Electronics,3500,2,Jalandhar,4/26/2026
+69fc2a4aa42208ab8c69970a,26,Karan Brar,Football,Sports,1200,2,Chandigarh,5/8/2026
+69fc2a4aa42208ab8c69970b,27,Meena Kumari,Perfume,Beauty,3500,1,Delhi,5/8/2026
+69fc2a4aa42208ab8c69970c,28,Arshdeep Singh,Cricket Bat,Sports,4500,1,Ludhiana,5/9/2026
+69fc2a4aa42208ab8c69970d,29,Pooja Thakur,Makeup Kit,Beauty,2800,1,Amritsar,5/9/2026
+69fc2a4aa42208ab8c69970e,30,Siddharth Malhotra,Luxury Watch,Accessories,12000,1,Gurugram,5/10/2026
+69fc2a4aa42208ab8c69970f,31,Deepika Singh,Leather Bag,Accessories,5500,1,Jalandhar,5/10/2026
+69fc2a4aa42208ab8c699710,32,Rahul Aneja,Modern Sofa,Home & Living,25000,1,Noida,5/11/2026
+69fc2a4aa42208ab8c699711,33,Sunita Rani,Table Lamp,Home & Living,1800,2,Patiala,5/11/2026
+69fc2a4aa42208ab8c699712,34,Navjot Kaur,Running Shoes,Fashion,4800,1,Bathinda,5/12/2026
+69fc2a4aa42208ab8c699713,35,Vijay Khanna,Gaming Laptop,Electronics,75000,1,Chandigarh,5/12/2026
+69fc2a4aa42208ab8c699714,36,Harmanpreet Kaur,Evening Dress,Fashion,3200,2,Ludhiana,5/13/2026
+69fc2a4aa42208ab8c699715,37,Abhishek Joshi,Smartphone,Electronics,22000,1,Delhi,5/13/2026
+69fc2a4aa42208ab8c699716,38,Gagan Deep,Badminton Racket,Sports,1500,2,Mohali,5/14/2026
+69fc2a4aa42208ab8c699717,39,Ishani Verma,Lipstick Set,Beauty,1200,3,Panchkula,5/14/2026
+69fc2a4aa42208ab8c699718,40,Sandeep Walia,Travel Backpack,Accessories,2500,1,Shimla,5/15/2026
+69fc2a4aa42208ab8c699719,41,Jaswinder Singh,Wireless Earbuds,Electronics,3000,2,Amritsar,5/15/2026
+69fc2a4aa42208ab8c69971a,42,Tanya Batra,Wall Art,Home & Living,1500,4,Delhi,5/16/2026
+69fc2a4aa42208ab8c69971b,43,Manish Paul,Yoga Mat,Sports,900,2,Ludhiana,5/16/2026
+69fc2a4aa42208ab8c69971c,44,Rachna Sharma,Skincare Serum,Beauty,2200,1,Chandigarh,5/17/2026
+69fc2a4aa42208ab8c69971d,45,Sahil Kapoor,Mechanical Watch,Accessories,18000,1,Gurugram,5/17/2026
+69fc2a4aa42208ab8c69971e,46,Bhavna Negi,Cotton Sheets,Home & Living,2500,2,Jalandhar,5/18/2026
+69fc2a4aa42208ab8c69971f,47,Amitabh Singh,Dumbbells (5kg),Sports,1800,2,Patiala,5/18/2026
+69fc2a4aa42208ab8c699720,48,Ridhima Goyal,Hair Dryer,Beauty,3200,1,Delhi,5/19/2026
+69fc2a4aa42208ab8c699721,49,Preet Kaur,Silk Scarf,Fashion,1100,2,Amritsar,5/19/2026
+69fc2a4aa42208ab8c699722,50,Saurav Gill,4K Monitor,Electronics,28000,1,Mohali,5/20/2026
+69fc2a4aa42208ab8c699723,51,Anita Desai,Dinner Set,Home & Living,6500,1,Ludhiana,5/20/2026
+69fc2a4aa42208ab8c699724,52,Gurpreet Singh,Sports Jersey,Sports,1400,3,Bathinda,5/21/2026
+69fc2a4aa42208ab8c699725,53,Kavita Sethi,Shoulder Bag,Accessories,3800,1,Chandigarh,5/21/2026
+69fc2a4aa42208ab8c699726,54,Rohan Mehra,Sneakers,Fashion,5500,1,Delhi,5/22/2026
+69fc2a4aa42208ab8c699727,55,Simran Bhullar,Face Palette,Beauty,1900,2,Jalandhar,5/22/2026
+69fc2a6ca42208ab8c699745,54,Rohan Mehra,Sneakers,Fashion,5500,1,Delhi,5/22/2026
+69fc2a6ca42208ab8c699746,55,Simran Bhullar,Face Palette,Beauty,1900,2,Jalandhar,5/22/2026
+69fc2c33a42208ab8c699767,56,Arjun Malhotra,Football,Sports,1200,2,Ludhiana,5/23/2026
+69fc2c33a42208ab8c699768,57,Sanya Iyer,Perfume,Beauty,4500,1,Mumbai,5/23/2026
+69fc2c33a42208ab8c699769,58,Ishwar Singh,Cricket Bat,Sports,5500,1,Jalandhar,5/24/2026
+69fc2c33a42208ab8c69976a,59,Divya Gupta,Makeup Kit,Beauty,3200,1,Delhi,5/24/2026
+69fc2c33a42208ab8c69976b,60,Kabir Das,Table Lamp,Home & Living,1800,3,Chandigarh,5/25/2026
+69fc2c33a42208ab8c69976c,61,Preeti Kaur,Luxury Watch,Accessories,15000,1,Amritsar,5/25/2026
+69fc2c33a42208ab8c69976d,62,Mohit Sharma,Modern Sofa,Home & Living,35000,1,Gurugram,5/26/2026
+69fc2c33a42208ab8c69976e,63,Ananya Roy,Leather Bag,Accessories,6000,1,Pune,5/26/2026
+69fc2c33a42208ab8c69976f,64,Vikram Singh,Laptop,Electronics,52000,1,Ludhiana,5/27/2026
+69fc2c33a42208ab8c699770,65,Mehak Gill,Dress,Fashion,2500,2,Patiala,5/27/2026
+69fc2c33a42208ab8c699771,66,Rohan Mehra,Smartphone,Electronics,28000,1,Delhi,5/28/2026
+69fc2c33a42208ab8c699772,67,Sneha Kapoor,Shoes,Fashion,4200,1,Chandigarh,5/28/2026
+69fc2c33a42208ab8c699773,68,Harman Brar,Badminton Racket,Sports,1800,2,Bathinda,5/29/2026
+69fc2c33a42208ab8c699774,69,Tina Dahiya,Face Palette,Beauty,2100,2,Rohtak,5/29/2026
+69fc2c33a42208ab8c699775,70,Sandeep Jaitly,Gaming Mouse,Electronics,3500,1,Mohali,5/30/2026
+69fc2c33a42208ab8c699776,71,Navneet Kaur,Designer Bag,Accessories,8500,1,Amritsar,5/30/2026
+69fc2c33a42208ab8c699777,72,Rajat Verma,Office Chair,Home & Living,12000,1,Noida,5/31/2026
+69fc2c33a42208ab8c699778,73,Pooja Batra,Lipstick Set,Beauty,1500,3,Delhi,5/31/2026
+69fc2c33a42208ab8c699779,74,Gaurav Singh,Yoga Mat,Sports,1100,2,Ludhiana,6/1/2026
+69fc2c33a42208ab8c69977a,75,Kiran Deep,Curtains,Home & Living,2200,4,Jalandhar,6/1/2026
+69fc2c33a42208ab8c69977b,76,Sahil Khanna,Monitor,Electronics,16000,1,Chandigarh,6/2/2026
+69fc2c33a42208ab8c69977c,77,Bhavna Sharma,Evening Gown,Fashion,7500,1,Mumbai,6/2/2026
+69fc2c33a42208ab8c69977d,78,Amit Goel,Dumbbells,Sports,2500,1,Gurugram,6/3/2026
+69fc2c33a42208ab8c69977e,79,Tanya Sethi,Skin Serum,Beauty,1900,2,Patiala,6/3/2026
+69fc2c33a42208ab8c69977f,80,Varun Joshi,Wall Clock,Home & Living,950,1,Delhi,6/4/2026
+69fc2c33a42208ab8c699780,81,Simran Kaur,Smart Watch,Accessories,4500,2,Amritsar,6/4/2026
+69fc2c33a42208ab8c699781,82,Rishi Kapoor,Wireless Headset,Electronics,5500,1,Pune,6/5/2026
+69fc2c33a42208ab8c699782,83,Meena Wati,Heels,Fashion,3800,1,Ludhiana,6/5/2026
+69fc2c33a42208ab8c699783,84,Jaspreet Singh,Gym Bag,Accessories,1500,3,Bathinda,6/6/2026
+69fc2c33a42208ab8c699784,85,Sonia Malhotra,Floor Rug,Home & Living,4800,1,Chandigarh,6/6/2026
