@@ -39,6 +39,14 @@ This project analyzes sales data using MongoDB and Power BI to generate meaningf
 ## 📊 Dashboard Preview
 ![Dashboard](dashboard.png)
 
+
+![Top Selling Products](top_selling_1.png)
+
+![Sales by Category](sales_by_category.png)
+
+![Revenue by City](revenue_by_city.png)
+
+![Daily Trend](Daily_trend_analysis.png)
 ---
 
 ## 🚀 Conclusion
